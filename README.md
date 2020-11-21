@@ -11,6 +11,7 @@ a GUI wrapper for ros1_bridge parameter_bridge can select which topic for bridgi
 - Double click cell with you want to exclude
 - Export your exclude topic list
 - Load your exclude Topic list
+- highlighted cells mean excluded topics
 - Reset means just kill bridge
 
 ## How to install
